@@ -24,6 +24,7 @@ If you plan to use this dataset for your research or applications, please keep t
 ## Citation
 If you use this dataset, please cite our paper:
 
+```bibtex
 @article{luo2025benchmark,
   title        = {Benchmark on Peer Review Toxic Detection: A Challenging Task with a New Dataset},
   author       = {Luo, Man and Peterson, Bradley and Gan, Rafael and Ramalingame, Hari and Gangrade, Navya and Dimarogona, Ariadne and Banerjee, Imon and Howard, Phillip},
